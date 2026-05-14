@@ -1,4 +1,4 @@
-Boat Clutch practice map - Short demonstration video: https://youtu.be/_u_oVvMdfzE
+1.16.1 Boat Clutch practice map - Short demonstration video: https://youtu.be/_u_oVvMdfzE
 
 Simply run off the spawn platform and boat clutch. For higher or lower boat clutch heigts use the command blocks.
 
