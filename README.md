@@ -3,6 +3,8 @@
 
 1.16.1 Boat Clutch practice map - Short demonstration video: https://youtu.be/DAjeBqQhnkM
 
+Download: https://github.com/Till48/Boat-Clutch-Practice/releases/tag/2.0
+
 For a specific height, click the according sign. For a random height use the random height sign.
 
 To respawn switch to your 6 slot.
